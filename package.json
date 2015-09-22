@@ -16,7 +16,7 @@
   ],
   "dependencies": {
     "async": "^1.2.1",
-    "redis": "0.12.x"
+    "redis": "^2.0.0"
   },
   "devDependencies": {
     "winston": "^1.0.0",
